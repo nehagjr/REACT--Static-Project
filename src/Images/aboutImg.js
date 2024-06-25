@@ -1,0 +1,7 @@
+export {default as Hs1} from "./aboutImg/10001.jpg"
+export {default as Hs2} from "./aboutImg/10002.jpg"
+export {default as Hs3} from "./aboutImg/10003.jpg"
+export {default as Hs4} from "./aboutImg/10004.jpg"
+export {default as Hs5} from "./aboutImg/10005.jpg"
+export {default as Hs6} from "./aboutImg/10006.jpg"
+export {default as Hs7} from "./aboutImg/10007.jpg"
